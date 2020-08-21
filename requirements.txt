@@ -1,17 +1,11 @@
-asgiref==3.2.7
-Django==3.0.7
+Django>=2.2, <2.3
 pytz==2020.1
 sqlparse==0.3.1
 
-djangorestframework>=3.11, <4.0
-djangorestframework-simplejwt>=4.4, <4.5
 django-filter
 
 python-decouple
-celery>=4.4, <4.5
-django-celery-beat
 
-PyJWT
 psycopg2-binary
 python-memcached
 Pillow
