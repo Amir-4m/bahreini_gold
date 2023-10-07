@@ -1,0 +1,11 @@
+Django>=2.2, <2.3
+pytz==2020.1
+sqlparse==0.3.1
+
+django-filter
+
+python-decouple
+
+psycopg2-binary
+python-memcached
+Pillow
